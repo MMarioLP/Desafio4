@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  html,body{
+  
+    font-size: 18px;
+    background-color: #f5f6f7;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  
+  .Regis{
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+  }
